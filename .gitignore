@@ -1,0 +1,15 @@
+/target/
+/src/test/
+/.idea/
+/data/
+/lib/
+/metastore_db/
+*.log
+*.iml
+*.html
+*.png
+/output/
+/output.csv/
+/spark-warehouse/
+/out/
+/build/
